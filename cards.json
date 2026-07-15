@@ -1,0 +1,64 @@
+[
+  {
+    "id": 1,
+    "name": "Layzzer",
+    "description": "Гравець Kaban Squad",
+    "rarity": "epic"
+  },
+  {
+    "id": 2,
+    "name": "Kyami",
+    "description": "Гравець KindMen,новачок турнірів",
+    "rarity": "rare"
+  },
+  {
+    "id": 3,
+    "name": "Compa",
+    "description": "Менеджер та засновник CandyRoseZero",
+    "rarity": "epic"
+  },
+  {
+    "id": 4,
+    "name": "filler",
+    "description": "капітан Dolboebiki Academy",
+    "rarity": "epic"
+  },
+  {
+    "id": 5,
+    "name": "Saridope",
+    "description": "Гравець CandyRoseZero,любитель нані",
+    "rarity": "epic"
+  },
+  {
+    "id": 6,
+    "name": "qwaltiks",
+    "description": "капітан Sk Team",
+    "rarity": "rare"
+  },
+  {
+    "id": 7,
+    "name": "Vantuzmen",
+    "description": "Гравець Never Fold",
+    "rarity": "epic"
+  },
+  {
+    "id": 8,
+    "name": "da1sonn",
+    "description": "Капітан SLM",
+    "rarity": "rare"
+  },
+  {
+    "id": 9,
+    "name": "KeyLe",
+    "description": "Гравець Dolboebiki Academy",
+    "rarity": "legendary"
+  },
+  {
+    "id": 10,
+    "name": "Lolipop",
+    "description": "Гравець SLM",
+    "rarity": "uncommon"
+
+    
+  }
+]
