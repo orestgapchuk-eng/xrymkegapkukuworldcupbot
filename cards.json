@@ -60,3 +60,10 @@
     "rarity": "rare"
   }
 ]
+
+{
+  "id": 11,
+  "name": "SlabovattGOAT",
+  "description": "GOAT",
+  "rarity": "epic"
+}
